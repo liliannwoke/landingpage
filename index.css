@@ -1,0 +1,268 @@
+body {
+    margin-left: 50px;
+    margin-right: 180px;
+}
+.skilled {
+    font-size: 40px;
+    font-weight: bolder;
+}
+p {
+    color: grey;
+}
+.heading {
+    margin-top: 20px;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.topbutton {
+    background: black;
+    color: white;
+    box-sizing: border-box;
+    border-radius: 30px;
+    padding: 10px 30px;
+    float: right;
+    clear: right;
+    margin-top: -75px;
+    margin-right: 50px;
+}
+.onebutt {
+    background: linear-gradient( to top,rgba(212, 30, 159, 1),rgba(252, 102, 69, 1));
+    box-sizing: border-box;
+    border-radius: 30px;
+    border-width: 0px;
+    padding: 10px 30px;
+    margin-bottom: 20px;
+}
+.link {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+.image {
+    box-sizing: border-box;
+    float: right;
+    clear: right;
+    margin-right: 250px;
+    margin-top: -240px;
+    background: linear-gradient(to top, rgba(212, 30, 159, 1), rgba(252, 102, 69, 1));
+    width: 350px;
+    height: 30vh;
+    border-radius: 1000px;
+    transform: scaleY(1.74);
+    position: relative;
+}
+.picture {
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+    padding: 50px 30px 100px 40px;
+    /* margin-bottom: -250px; */
+    width: 260px;
+
+}
+.purple {
+    background: linear-gradient(90deg, rgba(214, 43, 176, 1) 0%, rgba(81, 69, 218, 1) 62%);
+    width: 350px;
+    height: 40vh;
+    float: right;
+    clear: right;
+    margin-top: -334px;
+    margin-right: -180px;
+    transform: skewY(-30deg);
+    padding-right: 200px;
+}
+.hours {
+    background: #fbf8ef;
+    float: right;
+    margin-top: -80px;
+    margin-left: 870px;
+    box-sizing: border-box;
+    position: absolute;
+    width: 150px;
+    padding-right: 40px;
+    padding-left: 10px;
+    border-radius: 15px;
+}
+.num {
+    margin-top: -10px;
+    margin-bottom: 5px;
+    font-size: 2rem;
+}
+.nump {
+    word-spacing: 1px;
+    line-height: 10px;
+}
+.members {
+    position: absolute;
+    background: #fbf8ef;
+    float: right;
+        margin-top: -250px;
+        margin-left: 1225px;
+        box-sizing: border-box;
+        position: absolute;
+        width: 95px;
+        padding-right: 50px;
+        padding-left: 20px;
+        border-radius: 15px;
+        /* box-shadow: 1px 5px 2px#EFF8FA; */
+}
+.membersp {
+    font-size: 2rem;
+    margin-top: -10px;
+    margin-bottom: 5px;
+}
+.check {
+    background: linear-gradient(to top, rgba(212, 30, 159, 1), rgba(252, 102, 69, 1));
+    width: 300px;
+    height: 28vh;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.checkp {
+    color: white;
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: 2rem;
+    line-height: 3.5rem;
+}
+.animation {
+    background: #fbf8ef;
+    width: 300px;
+    height: 28vh;
+    box-sizing: border-box;
+    border-radius: 20px;
+    float: right;
+    clear: right;
+    margin-top: -242px;
+    margin-right: 700px;
+    padding-left: 30px;    
+    }
+    .fa-solid {
+        margin-top: 10px;
+        background: linear-gradient(to top, rgba(212, 30, 159, 1), rgba(252, 102, 69, 1));
+        color: #fbf8ef;
+        border-radius: 100%;
+        padding: 10px;
+    }
+    .ap {
+        line-height: 1.5rem;
+    }
+    .aheading {
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+    .buttwo {
+        margin-top: -10px;
+        background: #fbf8ef;
+            box-sizing: border-box;
+            border-radius: 30px;
+            border-width: 0px;
+            padding: 10px 0px;
+            margin-bottom: 20px;
+            line-height: 9px;
+    }
+    .link1 {
+        text-decoration: none;
+        color: rgba(212, 30, 159, 1);
+        font-size: 1rem;
+        font-weight: bolder;
+    }
+    .design {
+        background: #fbf8ef;
+            width: 300px;
+            height: 28vh;
+            box-sizing: border-box;
+            border-radius: 20px;
+            float: right;
+            clear: right;
+            margin-top: -242px;
+            margin-right: 200px;
+            padding-left: 30px;
+    }
+    .butthree {
+        margin-top: 15px;
+            background: #fbf8ef;
+            box-sizing: border-box;
+            border-radius: 30px;
+            border-width: 0px;
+            padding: 10px 0px;
+            margin-bottom: 20px;
+            line-height: 9px;
+    }
+    .fa-regular {
+        margin-top: 10px;
+        background: linear-gradient(to top, rgba(212, 30, 159, 1), rgba(252, 102, 69, 1));
+        color: #fbf8ef;
+            border-radius: 100%;
+            padding: 10px;
+    }
+.photography {
+            background: #fbf8ef;
+            width: 300px;
+            height: 28vh;
+            box-sizing: border-box;
+            border-radius: 20px;
+            margin-top: 80px;
+            margin-right: 700px;
+            padding-left: 30px;
+        }
+.buttfour {
+      margin-top: -10px;
+                background: #fbf8ef;
+                box-sizing: border-box;
+                border-radius: 30px;
+                border-width: 0px;
+                padding: 10px 0px;
+                margin-bottom: 20px;
+                line-height: 9px;
+        }
+.crypto {
+background: #fbf8ef;
+    width: 300px;
+    height: 28vh;
+    box-sizing: border-box;
+    border-radius: 20px;
+    margin-top: -240px;
+    margin-right: 700px;
+    padding-left: 30px;
+    float: right;
+    clear: right;
+}
+.business {
+    background: #fbf8ef;
+        width: 300px;
+        height: 28vh;
+        box-sizing: border-box;
+        border-radius: 20px;
+        margin-top: -240px;
+        margin-right: 200px;
+        padding-left: 30px;
+        float: right;
+        clear: right;
+}
+.buttom {
+    background: #012A36;
+    width: 98.9vw;
+    margin-left: -50px;
+    height: 20vh;
+    margin-bottom: -7px;
+}
+.skilledb {
+    font-size: 40px;
+    font-weight: bolder;
+    padding-top: 30px;
+    margin-left: 50px;
+    color: #fbf8ef;
+}
+.buttb {
+    float: right;
+    clear: right;
+    background: linear-gradient(to top, rgba(212, 30, 159, 1), rgba(252, 102, 69, 1));
+    box-sizing: border-box;
+    border-radius: 30px;
+    border-width: 0px;
+    padding: 10px 30px;
+    margin-bottom: 20px;
+    margin-top: -60px;
+    margin-right: 350px;
+}
